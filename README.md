@@ -1,4 +1,4 @@
-# Student-TimeTable-Management-System
+# Student-TimeTable-Management-System `Java` `mysql`
 A timetable management system with 5 tables [ 3 subjects , 2 classes] using Java as Frontend and MySQL scheme and database tables as backend.
 
 # For anyone reviewing this project!
